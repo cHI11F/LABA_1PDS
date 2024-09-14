@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0420\u041E\u0411\u041E\u0422\u0418 \u041F\u0414\u0421\\LABA_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61E027C0-F547-47E1-82EE-B33B149DF8FE}|LABA_1\\LABA_1.vcxproj|D:\\\u0420\u041E\u0411\u041E\u0422\u0418 \u041F\u0414\u0421\\LABA_1\\LABA_1\\LABA_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61E027C0-F547-47E1-82EE-B33B149DF8FE}|LABA_1\\LABA_1.vcxproj|solutionrelative:LABA_1\\LABA_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4842B5CE-6298-49C2-AA5F-79B14DF748A4}|UnitTest1\\UnitTest1.vcxproj|D:\\\u0420\u041E\u0411\u041E\u0422\u0418 \u041F\u0414\u0421\\LABA_1\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4842B5CE-6298-49C2-AA5F-79B14DF748A4}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "D:\\\u0420\u041E\u0411\u041E\u0422\u0418 \u041F\u0414\u0421\\LABA_1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "D:\\\u0420\u041E\u0411\u041E\u0422\u0418 \u041F\u0414\u0421\\LABA_1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-14T11:30:56.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LABA_1.cpp",
+              "DocumentMoniker": "D:\\\u0420\u041E\u0411\u041E\u0422\u0418 \u041F\u0414\u0421\\LABA_1\\LABA_1\\LABA_1.cpp",
+              "RelativeDocumentMoniker": "LABA_1\\LABA_1.cpp",
+              "ToolTip": "D:\\\u0420\u041E\u0411\u041E\u0422\u0418 \u041F\u0414\u0421\\LABA_1\\LABA_1\\LABA_1.cpp",
+              "RelativeToolTip": "LABA_1\\LABA_1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-14T11:28:44.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
